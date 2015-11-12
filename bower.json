@@ -1,0 +1,24 @@
+{
+  "name": "d3Fun",
+  "authors": [
+    "Jeff Ward <jeffwardcoding@gmail.com>"
+  ],
+  "description": "Showcase of the d3 Library",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.8",
+    "toastr": "~2.1.2"
+  }
+}
